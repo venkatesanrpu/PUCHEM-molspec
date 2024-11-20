@@ -1,3 +1,3 @@
-# PUCHEM-Chemical-Thermodynamics
+# PUCHEM-Molecular Spectroscopy
 
-AI Chat bot links are available for students to explore
+Data, Problems
