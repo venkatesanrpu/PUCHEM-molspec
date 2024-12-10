@@ -1,13 +1,14 @@
 {
   "spectra": [
     {
+      "data": {},
+      "id": "0abwvynpah97",
       "source": {
         "jcampURL": "./1h.jdx"
-      }
-    },
-    {
-      "source": {
-        "jcampURL": "./13c.jdx"
+      },
+      "display": {
+        "name": "1H",
+        "color": "#C10020"
       }
     }
   ],
